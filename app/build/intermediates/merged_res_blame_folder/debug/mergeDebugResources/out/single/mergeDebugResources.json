@@ -1,0 +1,322 @@
+[
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\drawable_microalga01.jpg.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\drawable\\microalga01.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\drawable_turbidez03.jpg.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\drawable\\turbidez03.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\layout_fragment_placeholder.xml.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\layout\\fragment_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\drawable_atlas03.jpg.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\drawable\\atlas03.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\drawable_user5.png.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\drawable\\user5.png"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\drawable_user1.png.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\drawable\\user1.png"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\layout_add_sensor_modbus.xml.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\layout\\add_sensor_modbus.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\drawable_turbidez07.jpg.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\drawable\\turbidez07.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\drawable_menu.png.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\drawable\\menu.png"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\layout_fragment_gestionar_usuarios.xml.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\layout\\fragment_gestionar_usuarios.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\layout_sobrenosotros.xml.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\layout\\sobrenosotros.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\drawable_remediacion01.jpg.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\drawable\\remediacion01.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\drawable_modbus03.jpg.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\drawable\\modbus03.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\drawable_microalga04.jpg.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\drawable\\microalga04.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\layout_fragment_atlas1.xml.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\layout\\fragment_atlas1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\drawable_reactor02.jpg.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\drawable\\reactor02.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\drawable_atlas04.jpg.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\drawable\\atlas04.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\drawable_user4.png.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\drawable\\user4.png"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\drawable_user2.png.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\drawable\\user2.png"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\drawable_microalga02.jpg.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\drawable\\microalga02.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\drawable_inyector02.jpg.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\drawable\\inyector02.jpg"
+    },
+    {
+        "merged": "com.example.bioinsight.app-debug-44:/layout_fragment_placeholder.xml.flat",
+        "source": "com.example.bioinsight.app-main-46:/layout/fragment_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\drawable_modbus04.jpg.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\drawable\\modbus04.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\drawable_microalga05.jpg.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\drawable\\microalga05.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\drawable_uanl.jpg.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\drawable\\uanl.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\drawable_sensores01.jpg.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\drawable\\sensores01.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\drawable_turbidez04.jpg.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\drawable\\turbidez04.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\drawable_reactor01.jpg.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\drawable\\reactor01.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\layout_item_slider.xml.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\layout\\item_slider.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\drawable_modbus01.jpg.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\drawable\\modbus01.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\drawable_user3.png.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\drawable\\user3.png"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\drawable_turbidez05.jpg.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\drawable\\turbidez05.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\drawable_rotometros.jpg.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\drawable\\rotometros.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\drawable_turbidez01.jpg.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\drawable\\turbidez01.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\layout_item_usuario.xml.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\layout\\item_usuario.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\drawable_microalga06.jpg.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\drawable\\microalga06.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\drawable_user7.png.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\drawable\\user7.png"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\drawable_logo.png.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\drawable_inyector03.jpg.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\drawable\\inyector03.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\drawable_atlas01.jpg.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\drawable\\atlas01.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\layout_producto.xml.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\layout\\producto.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\drawable_uanl02.jpg.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\drawable\\uanl02.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\drawable_modbus02.jpg.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\drawable\\modbus02.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\drawable_electrodos.jpg.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\drawable\\electrodos.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\drawable_inyector01.jpg.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\drawable\\inyector01.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\drawable_turbidez06.jpg.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\drawable\\turbidez06.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\drawable_turbidez02.jpg.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\drawable\\turbidez02.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\drawable_user6.png.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\drawable\\user6.png"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\drawable_atlas02.jpg.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\drawable\\atlas02.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\layout_avatar_list_item.xml.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\layout\\avatar_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\layout_add_sensor.xml.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\layout\\add_sensor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\layout_item_mensaje.xml.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\layout\\item_mensaje.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\layout_fragment_modbus.xml.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\layout\\fragment_modbus.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\layout_servicio.xml.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\layout\\servicio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\layout_activity_mensajes.xml.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\layout\\activity_mensajes.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\layout_login.xml.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\layout\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\drawable_sensorrs485.jpg.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\drawable\\sensorrs485.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\drawable_microalga03.jpg.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\drawable\\microalga03.jpg"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\layout_fragment_atlas2.xml.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\layout\\fragment_atlas2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\layout_fragment_nuevo_usuario.xml.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\layout\\fragment_nuevo_usuario.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-debug-44:\\drawable_remediacion02.jpg.flat",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\drawable\\remediacion02.jpg"
+    }
+]

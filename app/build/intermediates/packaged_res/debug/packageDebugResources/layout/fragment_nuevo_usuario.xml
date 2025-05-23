@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.main.NuevoUsuario">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true">
+
+        <LinearLayout
+            android:id="@+id/layoutRegistro"
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="24dp"
+            android:padding="16dp">
+
+            <TextView
+                android:id="@+id/titleRegistroText"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:text="Registrar Nuevo Usuario"
+                android:textColor="#000000"
+                android:textSize="24sp"
+                android:textStyle="bold"
+                android:layout_marginBottom="16dp" />
+
+            <EditText
+                android:id="@+id/newNombre"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Nombre"
+                android:inputType="textPersonName"
+                android:padding="12dp" />
+
+            <EditText
+                android:id="@+id/newApellido"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Apellido"
+                android:inputType="textPersonName"
+                android:padding="12dp"
+                android:layout_marginTop="8dp" />
+
+            <EditText
+                android:id="@+id/newUsuario"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Nombre de usuario"
+                android:inputType="textPersonName"
+                android:padding="12dp"
+                android:layout_marginTop="8dp" />
+
+            <EditText
+                android:id="@+id/newPassword"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Contraseña"
+                android:inputType="textPassword"
+                android:padding="12dp"
+                android:layout_marginTop="8dp" />
+
+            <EditText
+                android:id="@+id/confirmarPassword"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:hint="Confirmar Contraseña"
+                android:inputType="textPassword"
+                android:padding="12dp"
+                android:layout_marginTop="8dp" />
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal"
+                android:layout_marginTop="16dp"
+                android:gravity="center_vertical">
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Tipo de usuario:"
+                    android:textSize="16sp"
+                    android:layout_marginEnd="8dp"/>
+
+                <RadioGroup
+                    android:id="@+id/radioGroupTipoUsuario"
+                    android:layout_width="211dp"
+                    android:layout_height="wrap_content"
+                    android:orientation="vertical">
+
+                    <RadioButton
+                        android:id="@+id/radioUsuario"
+                        android:layout_width="211dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="1dp"
+                        android:checked="true"
+                        android:text="Usuario" />
+
+                    <RadioButton
+                        android:id="@+id/radioAdmin"
+                        android:layout_width="211dp"
+                        android:layout_height="wrap_content"
+                        android:layout_marginStart="2dp"
+                        android:layout_marginTop="-1dp"
+                        android:text="Administrador" />
+                </RadioGroup>
+            </LinearLayout>
+
+            <Button
+                android:id="@+id/btnRegistrar"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Registrar Usuario"
+                android:backgroundTint="#43A047"
+                android:textStyle="bold"
+                android:textColor="@android:color/white"
+                android:layout_marginTop="24dp" />
+
+            <TextView
+                android:id="@+id/tvMensaje"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="8dp"
+                android:textColor="#FF0000"
+                android:visibility="gone"/>
+        </LinearLayout>
+    </ScrollView>
+</FrameLayout>

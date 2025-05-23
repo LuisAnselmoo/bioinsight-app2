@@ -1,0 +1,86 @@
+[
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-mergeDebugResources-43:\\layout\\item_slider.xml",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\layout\\item_slider.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-mergeDebugResources-43:\\layout\\producto.xml",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\layout\\producto.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-mergeDebugResources-43:\\layout\\fragment_atlas1.xml",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\layout\\fragment_atlas1.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-mergeDebugResources-43:\\layout\\item_mensaje.xml",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\layout\\item_mensaje.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-mergeDebugResources-43:\\layout\\avatar_list_item.xml",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\layout\\avatar_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-mergeDebugResources-43:\\layout\\servicio.xml",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\layout\\servicio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-mergeDebugResources-43:\\layout\\fragment_atlas2.xml",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\layout\\fragment_atlas2.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-mergeDebugResources-43:\\layout\\fragment_modbus.xml",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\layout\\fragment_modbus.xml"
+    },
+    {
+        "merged": "com.example.bioinsight.app-mergeDebugResources-43:/layout/fragment_placeholder.xml",
+        "source": "com.example.bioinsight.app-main-46:/layout/fragment_placeholder.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-mergeDebugResources-43:\\layout\\login.xml",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\layout\\login.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-mergeDebugResources-43:\\layout\\add_sensor_modbus.xml",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\layout\\add_sensor_modbus.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-mergeDebugResources-43:\\layout\\activity_home.xml",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-mergeDebugResources-43:\\layout\\fragment_gestionar_usuarios.xml",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\layout\\fragment_gestionar_usuarios.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-mergeDebugResources-43:\\layout\\sobrenosotros.xml",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\layout\\sobrenosotros.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-mergeDebugResources-43:\\layout\\fragment_nuevo_usuario.xml",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\layout\\fragment_nuevo_usuario.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-mergeDebugResources-43:\\layout\\item_usuario.xml",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\layout\\item_usuario.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-mergeDebugResources-43:\\layout\\activity_mensajes.xml",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\layout\\activity_mensajes.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-mergeDebugResources-43:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-mergeDebugResources-43:\\layout\\add_sensor.xml",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\layout\\add_sensor.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-mergeDebugResources-43:\\layout\\fragment_home.xml",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-mergeDebugResources-43:\\layout\\fragment_placeholder.xml",
+        "source": "C:\\Users\\Luish\\.gradle\\daemon\\8.11.1\\com.example.bioinsight.app-main-46:\\layout\\fragment_placeholder.xml"
+    }
+]

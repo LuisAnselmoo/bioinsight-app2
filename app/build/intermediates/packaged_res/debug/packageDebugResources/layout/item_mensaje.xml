@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    card_view:cardCornerRadius="16dp"
+    card_view:cardElevation="12dp"
+    card_view:cardUseCompatPadding="true"
+    android:layout_marginStart="20dp"
+    android:layout_marginEnd="20dp"
+    android:layout_marginBottom="28dp"
+    android:layout_marginTop="8dp"
+    android:foreground="?attr/selectableItemBackground">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="20dp"
+        android:background="@android:color/white">
+
+        <TextView
+            android:id="@+id/tvNombre"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Nombre"
+            android:textStyle="bold"
+            android:textSize="18sp"
+            android:textColor="#222222" />
+
+        <TextView
+            android:id="@+id/tvCorreo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="correo@ejemplo.com"
+            android:textColor="#666666"
+            android:layout_marginTop="2dp"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/tvMensaje"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="16sp"
+            android:textColor="#333333"
+            android:layout_marginTop="10dp" />
+
+        <TextView
+            android:id="@+id/tvFecha"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Fecha"
+            android:textSize="12sp"
+            android:textColor="#999999"
+            android:layout_marginTop="10dp" />
+
+        <Button
+            android:id="@+id/btnEliminar"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Eliminar"
+            android:textAllCaps="false"
+            android:layout_marginTop="16dp"
+            android:paddingHorizontal="24dp"
+            android:paddingVertical="12dp"
+            android:textSize="14sp"
+            android:textColor="@android:color/white"
+            android:backgroundTint="#E53935" />
+    </LinearLayout>
+</androidx.cardview.widget.CardView>
